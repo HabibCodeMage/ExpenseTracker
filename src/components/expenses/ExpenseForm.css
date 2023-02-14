@@ -1,0 +1,11 @@
+.expense-form{
+    background-color: #8785A2;
+    box-shadow: 3px 7px 5px 0px #C0EEF2;
+    width: 70%;
+    margin: 0 auto;
+    color: white;
+    padding: 1rem;
+    border-radius: 6px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}

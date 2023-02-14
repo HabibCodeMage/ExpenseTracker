@@ -1,0 +1,8 @@
+.custom-card{
+    background-color: #03001C;
+    box-shadow: 3px 7px 5px 0px #5B8FB9;;
+    width: 70%;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 6px;
+}
